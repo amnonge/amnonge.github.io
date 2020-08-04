@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Amnon Geifman
 
-You can use the [editor on GitHub](https://github.com/amnonge/amnonge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a Ph.D. candidate at the Department of Computer Science and Applied Mathematics at the Weizmann Institute of Science under the supervision of [Prof. Ronen Basri](https://www.weizmann.ac.il/math/ronen/). My research focuses on deep learning theory, specifically I'm trying to understand highly over-parametrized neural networks.
+Prior to that, I completed my Ms.c also under the supervision of Prof. Basri, where my thesis dealt with multi-view structure from motion and 3-D reconstruction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Publications
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amnonge/amnonge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
