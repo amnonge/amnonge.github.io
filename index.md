@@ -32,6 +32,6 @@ on Multi-View Fundamental Matrices](https://openaccess.thecvf.com/content_CVPR_2
 Yoni Kasten*, Amnon Geifman*, Meirav Galun, Ronen Basri. (* equal contribution)<br />
 *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'19)*
 
-<a href="help.md">help</a>
+
 
 
