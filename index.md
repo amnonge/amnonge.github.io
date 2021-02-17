@@ -12,7 +12,7 @@ Prior to that, I completed my M.Sc also under the supervision of Prof. Basri, wh
 * [On the Similarity between the Laplace
 and Neural Tangent Kernels](https://arxiv.org/pdf/2007.01580.pdf) <br />
 Amnon Geifman, Abhay Yadav, Yoni Kasten, Meirav Galun, David Jacobs, Ronen Basri. <br />
- *Pre-print*
+ *Advances in Neural Information Processing Systems 33 (NeurIPS'20)*
 
 * [Frequency Bias in Neural Networks for Input of Non-Uniform Density](https://arxiv.org/pdf/2003.04560.pdf)<br />
 Ronen Basri, Meirav Galun, Amnon Geifman, David Jacobs, Yoni Kasten, Shira Kritchman. (alphabetical order)<br />
